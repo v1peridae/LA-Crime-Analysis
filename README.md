@@ -1,4 +1,4 @@
-# LA-Crime-AnalysiS
+# LA-Crime-Analysis
 This is a basic data analysis to answer the following question:
 a. 
 
